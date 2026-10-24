@@ -1,7 +1,7 @@
 # Docs
 
-Product notes for this repo. The running app is still the vinext starter (Atlas Board). These files describe the intended product.
+The running app is still the vinext starter (Atlas Board). These notes describe the intended product.
 
 | Doc | What it is |
 | --- | --- |
-| [SPEC.md](./SPEC.md) | Short functional spec for the exchange-office finder. Summarized from an internal policy document v0.1.0. |
+| [SPEC.md](./SPEC.md) | MVP spec v0.2: In MVP, Deferred, and Open decisions for the Seoul exchange-office finder. |
